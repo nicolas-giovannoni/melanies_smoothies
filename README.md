@@ -1,4 +1,4 @@
-# 🥤 Aplicación de Smoothies con Snowflake y Streamlit  
+# Aplicación de Smoothies con Snowflake y Streamlit  
 **Proyecto Hands-On – Snowflake Data Application Builders Workshop**
 
 Este repositorio contiene un proyecto práctico desarrollado como parte del **Snowflake Hands-On Essentials: Data Application Builders Workshop**.
@@ -7,13 +7,13 @@ El objetivo del proyecto es demostrar cómo construir **aplicaciones de datos di
 
 ---
 
-## 🚀 Descripción General
+## Descripción General
 
 La solución está compuesta por **dos aplicaciones Streamlit** que se ejecutan dentro de Snowflake y trabajan sobre la misma base de datos.
 
 ---
 
-## 1️⃣ Aplicación de Pedido de Smoothies
+## 1️ Aplicación de Pedido de Smoothies
 
 Aplicación interactiva que permite a los usuarios:
 
@@ -31,7 +31,7 @@ Aplicación interactiva que permite a los usuarios:
 
 ---
 
-## 2️⃣ Aplicación de Pedidos Pendientes
+## 2 Aplicación de Pedidos Pendientes
 
 Aplicación destinada a la **gestión y preparación de pedidos**:
 
@@ -47,7 +47,7 @@ Aplicación destinada a la **gestión y preparación de pedidos**:
 
 ---
 
-## 🧱 Arquitectura
+## Arquitectura
 
 - **Frontend**: Streamlit (ejecutado dentro de Snowflake)
 - **Backend**: Snowflake + Snowpark (Python)
@@ -60,7 +60,7 @@ Toda la lógica, procesamiento y persistencia de datos ocurre **dentro de Snowfl
 
 ---
 
-## 📦 Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 - Snowflake
 - Snowpark (Python)
@@ -79,7 +79,7 @@ Toda la lógica, procesamiento y persistencia de datos ocurre **dentro de Snowfl
 
 ---
 
-## 🎯 Objetivo del Proyecto
+## Objetivo del Proyecto
 
 Proyecto desarrollado con fines **educativos y de aprendizaje**, enfocado en:
 
@@ -90,6 +90,15 @@ Proyecto desarrollado con fines **educativos y de aprendizaje**, enfocado en:
 
 ---
 
-## ⚠️ Nota
+## Nota
 
 Este proyecto es **educativo** y no está pensado para uso productivo.
+
+---
+
+## Capturas de Pantalla
+
+### Aplicación de Pedido de Smoothies
+
+![Aplicación de Pedido de Smoothies](<img width="734" height="341" alt="image" src="https://github.com/user-attachments/assets/a2458d75-fc9a-4e09-ab36-68fd5bea8ca6" />)
+
