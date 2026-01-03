@@ -100,5 +100,5 @@ Este proyecto es **educativo** y no está pensado para uso productivo.
 
 ### Aplicación de Pedido de Smoothies
 
-![Aplicación de Pedido de Smoothies](<img width="734" height="341" alt="image" src="https://github.com/user-attachments/assets/a2458d75-fc9a-4e09-ab36-68fd5bea8ca6" />)
+<img width="734" height="341" alt="image" src="https://github.com/user-attachments/assets/a2458d75-fc9a-4e09-ab36-68fd5bea8ca6" />
 
