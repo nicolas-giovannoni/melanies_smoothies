@@ -102,3 +102,23 @@ Este proyecto es **educativo** y no está pensado para uso productivo.
 
 <img width="734" height="341" alt="image" src="https://github.com/user-attachments/assets/a2458d75-fc9a-4e09-ab36-68fd5bea8ca6" />
 
+### Carga de pedido
+
+<img width="706" height="878" alt="image" src="https://github.com/user-attachments/assets/d758a66a-a736-4164-ab64-f42609daf34b" />
+<img width="654" height="129" alt="image" src="https://github.com/user-attachments/assets/c95d38ca-af32-4ddf-95c9-f2e46459a560" />
+
+
+### Recepción de Pedidos y confirmación
+
+<img width="933" height="422" alt="image" src="https://github.com/user-attachments/assets/281a90ff-b06f-40bf-b3d6-0a7292e0af6f" />
+
+<img width="928" height="459" alt="image" src="https://github.com/user-attachments/assets/94937823-b3cd-4095-9331-f54ce63b8af9" />
+
+### Recepción del pedido t confirmación en base de datos
+
+<img width="1280" height="215" alt="image" src="https://github.com/user-attachments/assets/efe43c5c-0faa-45e8-a4a3-788a4da8b00b" />
+
+
+
+
+
