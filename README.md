@@ -118,6 +118,19 @@ Este proyecto es **educativo** y no está pensado para uso productivo.
 
 <img width="1280" height="215" alt="image" src="https://github.com/user-attachments/assets/efe43c5c-0faa-45e8-a4a3-788a4da8b00b" />
 
+---
+
+## Código de la aplicación de pedidos pendientes
+
+El repositorio incluye una segunda aplicación Streamlit encargada de la gestión de pedidos:
+
+- Lectura de pedidos pendientes desde Snowflake
+- Edición del estado del pedido desde la UI
+- Actualización de registros mediante `MERGE` con Snowpark
+
+Archivo:
+- `pending_orders_app.py`
+
 
 
 
