@@ -122,7 +122,7 @@ Este proyecto es **educativo** y no está pensado para uso productivo.
 
 ## Código de la aplicación de pedidos pendientes
 
-El repositorio incluye una segunda aplicación Streamlit encargada de la gestión de pedidos:
+Como se indica más arriba el repositorio incluye una segunda aplicación Streamlit encargada de la gestión de pedidos:
 
 - Lectura de pedidos pendientes desde Snowflake
 - Edición del estado del pedido desde la UI
