@@ -13,7 +13,7 @@ La solución está compuesta por **dos aplicaciones Streamlit** que se ejecutan 
 
 ---
 
-## 1️ Aplicación de Pedido de Smoothies
+## 1 Aplicación de Pedido de Smoothies
 
 Aplicación interactiva que permite a los usuarios:
 
@@ -71,7 +71,7 @@ Toda la lógica, procesamiento y persistencia de datos ocurre **dentro de Snowfl
 
 ---
 
-## 📄 Archivos del Proyecto
+## Archivos del Proyecto
 
 - `streamlit_app.py` – Aplicación de pedido de smoothies
 - `pending_orders_app.py` – Aplicación de gestión de pedidos pendientes
